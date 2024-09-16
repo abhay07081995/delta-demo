@@ -1,2 +1,2 @@
 # delta-demo
-it is created for practice use
+it is created for practice use.
